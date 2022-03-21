@@ -2,7 +2,7 @@ my_list = [7,8,9,2,3,1,4,10,5,6]
 print("My list is: ", my_list)
 
 my_list.sort()
-print("My ascending list is:: ", my_list)
+print("My ascending list is: ", my_list)
 
 my_list.sort(reverse=True)
 print("My descending list is: ", my_list)
