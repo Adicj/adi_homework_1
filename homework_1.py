@@ -1,4 +1,3 @@
-from test_git_new_laptop import new_laptop
 
 my_list = [7, 8, 9, 2, 3, 1, 4, 10, 5, 6]
 print("My list is: ", my_list)
@@ -20,4 +19,5 @@ print("My odd list is: ", my_sliced_list_odd)
 my_sliced_list_multiples = my_sorted_list[2::3]
 print("My list with multiple of the number 3 is: ", my_sliced_list_multiples)
 
-new_laptop()
+
+
