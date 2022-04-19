@@ -1,3 +1,7 @@
+if __name__ == '__homework_4__':
+    pass
+
+
 def reduce(m,n):
     while m%n != 0:
         oldm = m
@@ -54,6 +58,3 @@ print('First fraction is: ', x1, 'Second fraction is: ', x2)
 print('Sum of fraction is: ', x3)
 print('Substract of fraction is: ', x4)
 print('Inverted first fraction is: ', x5)
-
-
-
